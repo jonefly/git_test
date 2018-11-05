@@ -11,6 +11,7 @@ public class GitTestDemo {
         System.out.println("git测试代码5");
         getAddress();
         System.out.println(getAddress());
+        System.out.println("clone后的项目"+getAddress());
     }
 
     private static  String   getAddress(){
